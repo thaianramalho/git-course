@@ -94,3 +94,6 @@ Voltar arquivo ao de origem do branch:
 
     git checkout HEAD --nomedoarquivo
 
+Enviar arquivo para o GitHub após commit:
+
+    git push origin master
