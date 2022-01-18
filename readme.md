@@ -99,8 +99,8 @@ Voltar arquivo ao de origem do branch:
 Enviar arquivo para o GitHub após commit:
 
     git push
-    git push origin master
-    git push origin main
+    git push origin
+    git push NomeDoRemote NomeDoBranch
 
 Para ignorar arquivos (não serem adicionados no commit) basta criar um arquivo chamado ".gitignore" e dentro dele colocar o nome dos arquivos que não devem ser commitados.
 
@@ -120,10 +120,15 @@ Obter arquivos do repositorio remoto para o local:
 
     git pull
     git pull origin
-    git pull origin master
+    git pull NomeDoRemote NomeDoBranch
 
 Clonar projetos:
 
     git clone UrlDoProjeto
 
 Contribuir com projetos de terceiros com fork:
+
+    Basta clicar em Fork no GitHub
+    Copiar a url do projeto em seu repositório
+    Fazer suas alterações (add, commit, push)
+    Entrar no projeto original e solicitar pull request.
