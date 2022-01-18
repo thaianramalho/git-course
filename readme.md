@@ -61,3 +61,6 @@ Lista de commits feitos:
 
     git log
 
+Revertendo modificações:
+
+    
