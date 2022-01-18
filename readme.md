@@ -28,7 +28,7 @@ Configurando o git:
     Usuário:
 
     git config --global user.name "Thaian Ramalho"
-    git config --global user.email "thaianramalho@gmail.com"
+    git config --global user.email "thaianramalho32@gmail.com"
 
     Editor:
 
