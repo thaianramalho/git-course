@@ -101,3 +101,6 @@ Enviar arquivo para o GitHub após commit:
     git push origin main
 
 Para ignorar arquivos (não serem adicionados no commit) basta criar um arquivo chamado ".gitignore" e dentro dele colocar o nome dos arquivos que não devem ser commitados.
+
+Fazer um commit reverso:
+    git revert --no-edit codigoDoCommit
