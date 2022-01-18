@@ -76,7 +76,7 @@ Revertendo modificações:
 
 Branch:
 
-    git branch
+    git branch (para ver os branchs)
 
     Criar branch:
     git branch "nome para criar"
@@ -94,7 +94,7 @@ Ver o que foi alterado:
 
 Voltar arquivo ao de origem do branch:
 
-    git checkout HEAD --nomedoarquivo
+    git checkout HEAD --NomeDoArquivo
 
 Enviar arquivo para o GitHub após commit:
 
