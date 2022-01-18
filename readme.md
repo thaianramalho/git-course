@@ -1,4 +1,4 @@
-# Curso de GitHub
+# Curso de Git
 ### Autor: Bonieky Lacerda
 
 #### Links úteis:
