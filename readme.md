@@ -17,6 +17,8 @@ O que é, pra que serve e como funciona?
 
 [Instalar o GIT](git-scm.com)
 
+[Site Github](github.com)
+
 
 Configurando o git:
 
@@ -91,4 +93,3 @@ Voltar arquivo ao de origem do branch:
 
     git checkout HEAD -- nomedoarquivo
 
-    
