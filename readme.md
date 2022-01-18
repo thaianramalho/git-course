@@ -115,3 +115,8 @@ Deletar branchs remotos:
 Deletar branchs locais:
 
     git branch -D NomeDoBranch
+
+Obter arquivos do repositorio remoto para o local:
+
+    git pull
+    git pull origin master
