@@ -1,10 +1,19 @@
 # Curso de GitHub
 ### Autor: Bonieky Lacerda
 
+#### Links úteis:
+
 [Curso completo](https://www.youtube.com/watch?v=OuOb1_qADBQ)
 
 [Meu Instagram](instagram.com/thaianramalho)
+
 [Contato WhatsApp](wa.me/5532936180248)
+
+[Instalar o GIT](git-scm.com)
+
+[Site Github](github.com)
+
+[Guia para gerar chave SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 Por que o GIT foi criado?
 
@@ -13,13 +22,6 @@ Por que o GIT foi criado?
     2 - problema: não é possível trabalhar em equipe de forma eficiente.
 
     a partir desses problemas surgiu o versionamento.
-
-
-[Instalar o GIT](git-scm.com)
-
-[Site Github](github.com)
-
-[Guia para gerar chave SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 Configurando o git:
 
