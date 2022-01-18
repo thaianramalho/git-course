@@ -110,3 +110,8 @@ Fazer um commit reverso:
 
 Deletar branchs remotos:
 
+    git push origin :NomeDoBranch
+
+Deletar branchs locais:
+
+    git branch -D NomeDoBranch
