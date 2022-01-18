@@ -1,7 +1,7 @@
 # Curso de GitHub
 ### Autor: Bonieky Lacerda
 
-[Curso](https://www.youtube.com/watch?v=OuOb1_qADBQ)
+[Curso completo](https://www.youtube.com/watch?v=OuOb1_qADBQ)
 
 [Meu Instagram](instagram.com/thaianramalho)
 [Contato WhatsApp](wa.me/5532936180248)
@@ -103,4 +103,8 @@ Enviar arquivo para o GitHub após commit:
 Para ignorar arquivos (não serem adicionados no commit) basta criar um arquivo chamado ".gitignore" e dentro dele colocar o nome dos arquivos que não devem ser commitados.
 
 Fazer um commit reverso:
+
     git revert --no-edit codigoDoCommit
+
+Deletar branchs remotos:
+
