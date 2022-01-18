@@ -5,11 +5,11 @@
 
 [Curso completo](https://www.youtube.com/watch?v=OuOb1_qADBQ)
 
-[Meu Instagram](instagram.com/thaianramalho)
+[Meu Instagram](https://www.instagram.com/thaianramalho)
 
-[Contato WhatsApp](wa.me/5532936180248)
+[Contato WhatsApp](https://www.wa.me/5532936180248)
 
-[Instalar o GIT](git-scm.com)
+[Instalar o GIT](https://www.git-scm.com)
 
 [Site Github](https://github.com/)
 
