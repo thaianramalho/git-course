@@ -68,3 +68,15 @@ Revertendo modificações:
     git reset --mixed (volta para o ultimo commit, mas com as modificações não preparadas)
 
     git reset --hard (volta para o ultimo commit e ignora o restante)
+
+branchs:
+
+    git branch
+
+    Criar branch:
+
+    git branch "nome para criar"
+
+    Trocar de branch:
+
+    git checkout "nomedobranch" 
