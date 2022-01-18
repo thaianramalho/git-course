@@ -12,13 +12,14 @@ O que é, pra que serve e como funciona?
 
     2 - problema: não é possível trabalhar em equipe de forma eficiente.
 
-    a partir desses problemas surgiu o **versionamento**.
+    a partir desses problemas surgiu o versionamento.
 
 
 [Instalar o GIT](git-scm.com)
 
 [Site Github](github.com)
 
+[Guia para gerar chave SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 Configurando o git:
 
