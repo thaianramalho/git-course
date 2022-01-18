@@ -74,13 +74,21 @@ Branch:
     git branch
 
     Criar branch:
-
     git branch "nome para criar"
 
     Trocar de branch:
-
     git checkout "nomedobranch" 
 
-Historico de alterações:
+Ver o que foi alterado:
 
-    git diff
+    git diff (ver as alterações de todos os arquivos da lista)
+
+    git diff --name-only (ver apenas nomes dos arquivos modificados)
+
+    git diff nomedoarquivo (ver apenas o que foi alterado naquele arquivo)
+
+Voltar arquivo ao de origem do branch:
+
+    git checkout HEAD -- nomedoarquivo
+
+    
