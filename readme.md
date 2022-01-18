@@ -121,3 +121,7 @@ Obter arquivos do repositorio remoto para o local:
     git pull
     git pull origin
     git pull origin master
+
+Clonar projetos:
+
+    git clone UrlDoProjeto
