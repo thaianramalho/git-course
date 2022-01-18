@@ -69,7 +69,7 @@ Revertendo modificações:
 
     git reset --hard (volta para o ultimo commit e ignora o restante)
 
-branchs:
+Branch:
 
     git branch
 
