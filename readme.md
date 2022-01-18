@@ -96,4 +96,4 @@ Voltar arquivo ao de origem do branch:
 
 Enviar arquivo para o GitHub após commit:
 
-    git push origin master
+    git push
