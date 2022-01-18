@@ -63,7 +63,7 @@ Lista de commits feitos:
 
 Revertendo modificações:
 
-    git reset --oft (voltar para o ultimo commit mas com as modificações preparadas, mas não commitadas)
+    git reset --soft (voltar para o ultimo commit mas com as modificações preparadas, mas não commitadas)
 
     git reset --mixed (volta para o ultimo commit, mas com as modificações não preparadas)
 
