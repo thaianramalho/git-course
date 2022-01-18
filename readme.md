@@ -80,3 +80,7 @@ Branch:
     Trocar de branch:
 
     git checkout "nomedobranch" 
+
+Historico de alterações:
+
+    git diff
