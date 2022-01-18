@@ -51,4 +51,13 @@ Verificar o que foi modificado na pasta:
 
 Adicionar arquivo ao git:
 
-git add -A (todos) ou git add "nome do arquivo"
+    git add -A (todos) ou git add "nome do arquivo"
+
+Commit:
+
+    git commit -m "mensagem do commit"
+
+Lista de commits feitos:
+
+    git log
+
