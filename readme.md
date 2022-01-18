@@ -11,7 +11,7 @@
 
 [Instalar o GIT](git-scm.com)
 
-[Site Github](github.com)
+[Site Github](https://github.com/)
 
 [Guia para gerar chave SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
