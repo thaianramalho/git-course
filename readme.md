@@ -58,7 +58,7 @@ Adicionar arquivo ao git:
 
 Commit:
 
-    git commit -m "mensagem do commit"
+    git commit -am "mensagem do commit"
 
 Lista de commits feitos:
 
@@ -97,3 +97,5 @@ Voltar arquivo ao de origem do branch:
 Enviar arquivo para o GitHub após commit:
 
     git push
+    git push origin master
+    git push origin main
