@@ -125,3 +125,5 @@ Obter arquivos do repositorio remoto para o local:
 Clonar projetos:
 
     git clone UrlDoProjeto
+
+Contribuir com projetos de terceiros com fork:
