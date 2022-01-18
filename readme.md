@@ -92,5 +92,5 @@ Ver o que foi alterado:
 
 Voltar arquivo ao de origem do branch:
 
-    git checkout HEAD -- nomedoarquivo
+    git checkout HEAD --nomedoarquivo
 
