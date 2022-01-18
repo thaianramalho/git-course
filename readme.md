@@ -6,7 +6,7 @@
 [Meu Instagram](instagram.com/thaianramalho)
 [Contato WhatsApp](wa.me/5532936180248)
 
-O que é, pra que serve e como funciona?
+Por que o GIT foi criado?
 
     1 - problema: em caso de bug, é necessário voltar alterações nos arquivos, mas depois de salvo não era possível.
 
