@@ -5,7 +5,7 @@
 
 [Curso completo no YouTube](https://www.youtube.com/watch?v=OuOb1_qADBQ)
 
-[Meu Instagram](https://www.instagram.com/thaianramalho)
+[Meu Instagram para contato](https://www.instagram.com/thaianramalho)
 
 [Contato WhatsApp](https://wa.me/5532936180248)
 
