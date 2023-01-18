@@ -7,7 +7,9 @@
 
 [Meu Instagram para contato](https://www.instagram.com/thaianramalho)
 
-[Contato WhatsApp](https://wa.me/5532936180248)
+[Meu Site](https://www.thaianramalho.com)
+
+[Contato WhatsApp](https://wa.me/5532985148692)
 
 [Instalar o GIT](https://www.git-scm.com)
 
